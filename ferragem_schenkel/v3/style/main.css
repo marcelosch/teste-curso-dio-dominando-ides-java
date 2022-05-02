@@ -1,0 +1,47 @@
+body{
+    font-family: 'arial', sans-serif;
+    color: black;
+    text-align: center;
+    background-color: white; 
+        
+  }
+.box{
+    width: 800px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.title {
+    font-size: 22px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.box .redes {
+  align-items: center;
+  text-align: center;
+  align-content: center;
+  
+}
+
+.descricao{
+    font-size: 18px;
+    margin: 20px auto;
+    color: black;
+    text-align: center;
+}
+
+.descricao a{
+    text-decoration: none;
+    color: black;
+}
+
+.box .carrosel-forn {
+    display: flex;
+
+}
+
+.carrosel-forn .item{
+    max-width: 100px;
+    max-height: 100px;
+}

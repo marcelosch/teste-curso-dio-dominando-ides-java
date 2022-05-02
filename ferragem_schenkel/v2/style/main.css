@@ -1,0 +1,27 @@
+body{
+    font-family: 'arial', sans-serif;
+    color: black;
+    text-align: center;
+    background-color: white;
+        
+  }
+.box{
+    width: 500px;
+    margin: 50px auto;
+}
+
+.title {
+    font-size: 24px;
+    margin-top: 25px;
+}
+
+.box .descricao{
+    font-size: 20px;
+    margin: 20px auto;
+    color: black;
+}
+
+.box .descricao a{
+    text-decoration: none;
+    color: black;
+}
